@@ -11,6 +11,7 @@
         </fileDesc>
     </teiHeader>
 <text>
+<text>
    <speech>
      <said type="direct" aloud="true">
 		 
@@ -25,5 +26,6 @@
 
       </said>
  </speech>
+</text>
 </text>
 </TEI>
